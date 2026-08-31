@@ -1,6 +1,6 @@
 
 class Usuario:
-    def __init__(self, nombre: str = "Sin definir", saldo: float = 0):
+    def __init__(self, nombre: str = "Ever", saldo: float = 100):
         self.__nombre = nombre
         self.__saldo = saldo
         
