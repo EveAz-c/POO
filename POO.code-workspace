@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "Ejercicio 1",
+			"path": "Ejercicio1"
+		},
+		{
+			"name": "Ejercicio 2",
+			"path": "Ejercicio2"
+		},
+		{
+			"name": "Ejercicio 3",
+			"path": "Ejercicio3"
+		},
+		{
+			"name": "Ejercicio 4",
+			"path": "Ejercicio4"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
