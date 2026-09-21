@@ -1,5 +1,3 @@
-package Ejercicio6;
-
 public class Lobo extends Canino {
     public Lobo(){
         super("Canis lupus", "Aullido", "Carnívoro", "Bosque");

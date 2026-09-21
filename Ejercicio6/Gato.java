@@ -1,5 +1,3 @@
-package Ejercicio6;
-
 public class Gato extends Felino {
     public Gato() {
         super("Felis Silvestris Catus", "Maullido", "Ratones", "Doméstico");

@@ -1,5 +1,3 @@
-package Ejercicio6;
-
 public class Leon extends Felino {
     public Leon(){
         super("Panthera leo", "Rugido", "Carnívoro", "Pradera");
