@@ -1,3 +1,5 @@
+package Ejercicio6;
+
 public abstract class Animal {
     protected String nombreCientifico;
     protected String sonido;
